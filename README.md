@@ -1,3 +1,3 @@
 ## Computer-Vision-Projects:
 
-Projects made using Tensorflow, OpenCV, mediapipe..
+Projects made using Tensorflow, OpenCV and mediapipe libraries.
